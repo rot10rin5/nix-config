@@ -1,0 +1,3 @@
+dunst &
+waybar &
+nm-applet &
